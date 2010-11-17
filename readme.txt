@@ -1,0 +1,35 @@
+=== WPExifView ===
+Contributors: tatsuya
+Donate link: http://fukata.org/
+Tags: images,flickr
+Requires at least: 3.0.1
+Tested up to: 3.0.1
+Stable tag: 0.0.2
+
+画像のEXIF情報を記事本文内に埋め込む。
+
+== Description ==
+
+当プラグインは、投稿画面よりFlickrの画像を記事本文内に簡単に挿入するためのプラグインです。
+
+== Installation ==
+
+1. 解凍後、フォルダ「wp-flickr-press/」をディレクトリ「/wp-content/plugins/」にアップロードする。
+2. 管理画面よりプラグイン「FlickrPress」をアクティベートを行う。
+3. 左サイドバーに表示されているFlickrPressの設定画面より、APIキー、ユーザIDについて設定する。
+
+== Frequently Asked Questions ==
+
+現在なし
+
+== Screenshots ==
+
+1. Add flickr media 1
+2. Add flickr media 2
+3. Setting config
+
+== Changelog ==
+= 0.0.1 =
+* 初回リリース
+
+== Upgrade Notice ==
