@@ -1,0 +1,15 @@
+tr.image-size div.image-size-item {
+	float: none;
+	text-align: left;
+	width: 100%;
+}
+
+div.search-form-off {
+	display: none;
+}
+
+div#advanced_search_form {
+}
+
+span.field-label {
+}
