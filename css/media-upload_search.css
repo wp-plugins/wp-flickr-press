@@ -1,0 +1,25 @@
+tr.image-size div.image-size-item {
+	float: none;
+	text-align: left;
+	width: 100%;
+}
+
+div.search-form-off {
+	display: none;
+}
+
+div#advanced_search_form {
+}
+
+span.field-label {
+}
+
+.media-item .batch-send {
+	float: left;
+	margin-top: 10px;
+}
+
+.media-item .order {
+	float: left;
+	margin-top: 5px;
+}
